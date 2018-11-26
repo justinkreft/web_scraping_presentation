@@ -13,10 +13,10 @@ and specifically recommends Scrapy for production web scraping applications.
 ## Build instructions
 ==================
 
-Use `make setup` after cloning repo to install dependencies
-Use `make start-notebook` to start Jupyter notebook
+Use `make setup` after cloning repo to install dependencies  
+Use `make start-notebook` to start Jupyter notebook  
 
-If wanting to use sample scrapy library cd into
-`cd <repo_location>/web_scraping_presentation/rotten_tomatoes`
-`source .venv/bin/activate`
-`scrapy crawl movie_scrape`
+If wanting to use sample scrapy library cd into  
+`cd <repo_location>/web_scraping_presentation/rotten_tomatoes`  
+`source .venv/bin/activate`  
+`scrapy crawl movie_scrape`  
