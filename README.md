@@ -1,8 +1,8 @@
 # Robust Web Scraping, (Some) Natural Language Processing, and Startup Culture
 ***************************************************
 
-*Author*: Justin Kreft
-*Email*: justin(dot)kreft(at)quantworks(dot).com
+*Author*: Justin Kreft  
+*Email*: justin(dot)kreft(at)quantworks(dot).com  
 
 **This** presentation was given to a group of interested students at UNC-CH on 2018-11-27.
 The intent of the presentation was a high-level introduction to choices that will enable
