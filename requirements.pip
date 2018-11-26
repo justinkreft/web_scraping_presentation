@@ -1,0 +1,3 @@
+jupyter==1.0.0
+spacy==2.0.16
+scrapy==1.5.1
