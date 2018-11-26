@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-BOT_NAME = 'ACE_requirements'
+BOT_NAME = 'rotten_tomatoes'
 LOG_LEVEL = "DEBUG"
 SPIDER_MODULES = ['rotten_tomatoes.spiders']
 NEWSPIDER_MODULE = 'rotten_tomatoes.spiders'
