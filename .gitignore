@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyc
+
+# C extensions
+*.so
+
+# OS cruft
+.DStore
+Thumbs.db
+
+# IDE stuff
+.project
+.pydevproject
+.atom
+.idea/
+*.sublime-workspace
+
+# git merge cruft
+*.orig
+
+# project and environment files
+.venv/
+.metadata/
+.settings/
+
+# base logs directory
+logs/
+
+# ipynb files
+*.ipynb_checkpoints
