@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # OS cruft
-.DStore
+.DS_Store
 Thumbs.db
 
 # IDE stuff
